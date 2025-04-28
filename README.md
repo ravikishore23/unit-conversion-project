@@ -24,9 +24,9 @@ Built with HTML, CSS, JavaScript (and optionally a server if you're using Node.j
 ## 📸 Screenshots
 
 ## ui
-[](unit-conversion-project/assets/Screenshot%20(1).png)
+![](https://github.com/ravikishore23/unit-conversion-project/blob/main/assets/Screenshot%20(1).png)
 ## after conversion
-[](unit-conversion-project/assets/Screenshot%20(2).png)
+![](https://github.com/ravikishore23/unit-conversion-project/blob/main/assets/Screenshot%20(2).png)
 
 ## 🚀 Getting Started
 
